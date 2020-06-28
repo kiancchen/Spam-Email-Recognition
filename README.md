@@ -4,7 +4,7 @@ Recognize the spam email using Machine Learning by `sklearn` and `pandas`.
 
 This project implements a simple email filter, which recognize the spam and ham emails.
 
-The modes uses `RandomForestClassifier` to classify the emails.
+The modes uses `Multinomial Navie Bayes` to classify the emails.
 
 # How to use
 
@@ -14,7 +14,7 @@ Alternatively, you can run it using Microsoft Azure Notebooks by https://noteboo
 
 # Acknowledge
 
-The `spam_ham_dataset.csv` is from https://www.kaggle.com/venky73/spam-mails-dataset.
+The `test_emails.csv` is from https://www.kaggle.com/balaka18/email-spam-classification-dataset-csv
 
-The `spambase.csv` is from https://archive.ics.uci.edu/ml/datasets/Spambase
+The `train_emails.csv` is from https://archive.ics.uci.edu/ml/datasets/Spambase
 
