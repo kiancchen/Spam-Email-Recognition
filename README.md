@@ -10,7 +10,7 @@ The modes uses `RandomForestClassifier` to classify the emails.
 
 If you want to run the Jupyter Notebook on your own machine, you can clone files and run it. But note that I run it by `python 3.8.2`, `pandas 1.0.1` and `sklearn 0.23.0` on `MacOS 10.15.4`. I didn’t test it on other versions.
 
-Alternatively, you can run it using Microsoft Azure Notebooks byhttps://notebooks.azure.com/cche7346/projects/spam-recognization
+Alternatively, you can run it using Microsoft Azure Notebooks by https://notebooks.azure.com/cche7346/projects/spam-recognization
 
 # Acknowledge
 
