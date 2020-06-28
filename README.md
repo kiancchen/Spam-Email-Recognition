@@ -14,7 +14,9 @@ Alternatively, you can run it using Microsoft Azure Notebooks by https://noteboo
 
 # Acknowledge
 
-The `test_emails.csv` is from https://www.kaggle.com/balaka18/email-spam-classification-dataset-csv
+The `train_emails.csv` is from https://www.kaggle.com/balaka18/email-spam-classification-dataset-csv
 
-The `train_emails.csv` is from https://archive.ics.uci.edu/ml/datasets/Spambase
+The `test_emails.csv` is from https://www.kaggle.com/venky73/spam-mails-dataset.
+
+
 
